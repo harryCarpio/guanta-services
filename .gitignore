@@ -44,6 +44,7 @@ replay_pid*
 .settings
 .springBeans
 .vscode
+.idea
 /code
 MANIFEST.MF
 _site/
