@@ -52,6 +52,7 @@ _site/
 activemq-data
 bin
 build
+build/**
 !/**/src/**/bin
 !/**/src/**/build
 build.log
@@ -67,3 +68,5 @@ target
 secrets.yml
 .gradletasknamecache
 .sts4-cache
+
+src\main\resources\application.properties
